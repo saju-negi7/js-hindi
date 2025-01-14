@@ -1,4 +1,4 @@
-"use strict"; // treat all js code as newer version
+//  "use strict"; // treat all js code as newer version
 
 /*
  data types
